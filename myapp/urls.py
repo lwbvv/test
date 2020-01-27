@@ -19,7 +19,7 @@ from django.conf import settings
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', include('myapp.home.urls')),
+    # path('', include('myapp.home.urls')),
     # path('hwahae/', include('myapp.item.urls')),
     # path(r'', views.index),
 ]
