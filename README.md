@@ -1,4 +1,4 @@
-# programmers 과제 테스트 템플릿 - Django
+# programmers 과제 테스트 템플릿 - Hwahae
 
 programmers의 과제 테스트는 코드를 제출하면 자동으로 서버를 구성하여 실행해 볼 수 있는 환경을 제공합니다. 
 
